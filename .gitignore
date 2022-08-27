@@ -1,0 +1,6 @@
+Minimo/settings.py
+db.sqlite3
+media/
+.idea/
+*.pyc
+__pycache__/
